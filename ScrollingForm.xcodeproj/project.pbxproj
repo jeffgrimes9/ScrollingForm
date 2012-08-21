@@ -34,7 +34,6 @@
 		EC36898415E3071200A2B5F0 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		EC36899015E3096D00A2B5F0 /* ScrollingForm.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ScrollingForm.xib; sourceTree = "<group>"; };
 		EC3BB41515E4304200E76603 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
-		EC3BB42215E43B2A00E76603 /* icon4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon4.png; sourceTree = "<group>"; };
 		EC3BB44015E449D700E76603 /* Default.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Default.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -56,7 +55,6 @@
 			isa = PBXGroup;
 			children = (
 				EC3BB44015E449D700E76603 /* Default.png */,
-				EC3BB42215E43B2A00E76603 /* icon4.png */,
 				EC3BB41515E4304200E76603 /* icon.png */,
 				EC36897715E3071200A2B5F0 /* ScrollingForm */,
 				EC36897015E3071200A2B5F0 /* Frameworks */,
